@@ -1,0 +1,645 @@
+character.png
+	size: 1921, 1032
+	filter: Linear, Linear
+Feathers
+	bounds: 281, 861, 222, 169
+	offsets: 0, 0, 224, 170
+arms_glow/hp_3_eyes_2_00000
+	bounds: 221, 2, 92, 28
+	offsets: 4, 35, 100, 100
+arms_glow/hp_3_eyes_2_00002
+	bounds: 221, 2, 92, 28
+	offsets: 4, 35, 100, 100
+arms_glow/hp_3_eyes_2_00004
+	bounds: 221, 2, 92, 28
+	offsets: 4, 35, 100, 100
+arms_glow/hp_3_eyes_2_00006
+	bounds: 221, 2, 92, 28
+	offsets: 4, 35, 100, 100
+arms_glow/hp_3_eyes_2_00007
+	bounds: 221, 2, 92, 28
+	offsets: 4, 35, 100, 100
+arms_glow/hp_3_eyes_2_00009
+	bounds: 221, 2, 92, 28
+	offsets: 4, 35, 100, 100
+arms_glow/hp_3_eyes_2_00011
+	bounds: 221, 2, 92, 28
+	offsets: 4, 35, 100, 100
+arms_glow/hp_3_eyes_2_00013
+	bounds: 221, 2, 92, 28
+	offsets: 4, 35, 100, 100
+arms_glow/hp_3_eyes_2_00014
+	bounds: 221, 2, 92, 28
+	offsets: 4, 35, 100, 100
+arms_glow/hp_3_eyes_2_00017
+	bounds: 221, 2, 92, 28
+	offsets: 4, 35, 100, 100
+arms_glow/hp_3_eyes_2_00019
+	bounds: 221, 2, 92, 28
+	offsets: 4, 35, 100, 100
+arms_glow/hp_3_eyes_2_00022
+	bounds: 221, 2, 92, 28
+	offsets: 4, 35, 100, 100
+arms_glow/hp_3_eyes_2_00024
+	bounds: 221, 2, 92, 28
+	offsets: 4, 35, 100, 100
+arms_glow/hp_3_eyes_2_00026
+	bounds: 221, 2, 92, 28
+	offsets: 4, 35, 100, 100
+arms_glow/hp_3_eyes_2_00029
+	bounds: 221, 2, 92, 28
+	offsets: 4, 35, 100, 100
+arms_glow/hp_3_eyes_2_00031
+	bounds: 221, 2, 92, 28
+	offsets: 4, 35, 100, 100
+arms_glow/hp_3_eyes_2_00033
+	bounds: 221, 2, 92, 28
+	offsets: 4, 35, 100, 100
+arms_glow/hp_3_eyes_2_00034
+	bounds: 221, 2, 92, 28
+	offsets: 4, 35, 100, 100
+arms_glow/hp_3_eyes_2_00035
+	bounds: 221, 2, 92, 28
+	offsets: 4, 35, 100, 100
+arms_glow/hp_3_eyes_2_00037
+	bounds: 221, 2, 92, 28
+	offsets: 4, 35, 100, 100
+arms_glow/hp_3_eyes_2_00001
+	bounds: 315, 2, 92, 28
+	offsets: 4, 35, 100, 100
+arms_glow/hp_3_eyes_2_00003
+	bounds: 409, 2, 92, 28
+	offsets: 4, 35, 100, 100
+arms_glow/hp_3_eyes_2_00005
+	bounds: 1888, 938, 92, 28
+	offsets: 4, 35, 100, 100
+	rotate: 90
+arms_glow/hp_3_eyes_2_00008
+	bounds: 336, 317, 92, 28
+	offsets: 4, 35, 100, 100
+	rotate: 90
+arms_glow/hp_3_eyes_2_00010
+	bounds: 1866, 730, 92, 28
+	offsets: 4, 35, 100, 100
+	rotate: 90
+arms_glow/hp_3_eyes_2_00012
+	bounds: 1515, 430, 92, 28
+	offsets: 4, 35, 100, 100
+arms_glow/hp_3_eyes_2_00015
+	bounds: 1609, 430, 92, 28
+	offsets: 4, 35, 100, 100
+arms_glow/hp_3_eyes_2_00016
+	bounds: 1422, 384, 92, 28
+	offsets: 4, 35, 100, 100
+arms_glow/hp_3_eyes_2_00018
+	bounds: 1516, 400, 92, 28
+	offsets: 4, 35, 100, 100
+arms_glow/hp_3_eyes_2_00020
+	bounds: 1610, 400, 92, 28
+	offsets: 4, 35, 100, 100
+arms_glow/hp_3_eyes_2_00021
+	bounds: 1516, 370, 92, 28
+	offsets: 4, 35, 100, 100
+arms_glow/hp_3_eyes_2_00023
+	bounds: 1610, 370, 92, 28
+	offsets: 4, 35, 100, 100
+arms_glow/hp_3_eyes_2_00025
+	bounds: 1508, 222, 92, 28
+	offsets: 4, 35, 100, 100
+arms_glow/hp_3_eyes_2_00027
+	bounds: 1508, 192, 92, 28
+	offsets: 4, 35, 100, 100
+arms_glow/hp_3_eyes_2_00028
+	bounds: 1508, 162, 92, 28
+	offsets: 4, 35, 100, 100
+arms_glow/hp_3_eyes_2_00030
+	bounds: 1579, 68, 92, 28
+	offsets: 4, 35, 100, 100
+	rotate: 90
+arms_glow/hp_3_eyes_2_00032
+	bounds: 1609, 89, 92, 28
+	offsets: 4, 35, 100, 100
+	rotate: 90
+arms_glow/hp_3_eyes_2_00036
+	bounds: 1710, 88, 92, 28
+	offsets: 4, 35, 100, 100
+	rotate: 90
+hp_3_base
+	bounds: 2, 746, 277, 284
+hp_3_belt
+	bounds: 2, 315, 198, 145
+hp_3_chest
+	bounds: 2, 462, 225, 282
+	offsets: 4, 0, 229, 282
+hp_3_crown
+	bounds: 505, 832, 138, 95
+hp_3_crown_glow/hp_3_crown_glow_00000
+	bounds: 81, 25, 138, 95
+hp_3_crown_glow/hp_3_crown_glow_00029
+	bounds: 81, 25, 138, 95
+hp_3_crown_glow/hp_3_crown_glow_00001
+	bounds: 645, 832, 138, 95
+hp_3_crown_glow/hp_3_crown_glow_00002
+	bounds: 918, 825, 138, 95
+hp_3_crown_glow/hp_3_crown_glow_00003
+	bounds: 1058, 824, 138, 95
+hp_3_crown_glow/hp_3_crown_glow_00004
+	bounds: 1198, 824, 138, 95
+hp_3_crown_glow/hp_3_crown_glow_00005
+	bounds: 1338, 824, 138, 95
+hp_3_crown_glow/hp_3_crown_glow_00006
+	bounds: 1478, 824, 138, 95
+hp_3_crown_glow/hp_3_crown_glow_00007
+	bounds: 1618, 824, 138, 95
+hp_3_crown_glow/hp_3_crown_glow_00008
+	bounds: 1758, 824, 138, 95
+hp_3_crown_glow/hp_3_crown_glow_00009
+	bounds: 367, 590, 138, 95
+	rotate: 90
+hp_3_crown_glow/hp_3_crown_glow_00010
+	bounds: 229, 411, 138, 95
+hp_3_crown_glow/hp_3_crown_glow_00011
+	bounds: 716, 692, 138, 95
+	rotate: 90
+hp_3_crown_glow/hp_3_crown_glow_00012
+	bounds: 711, 595, 138, 95
+hp_3_crown_glow/hp_3_crown_glow_00013
+	bounds: 222, 81, 138, 95
+hp_3_crown_glow/hp_3_crown_glow_00014
+	bounds: 851, 565, 138, 95
+	rotate: 90
+hp_3_crown_glow/hp_3_crown_glow_00015
+	bounds: 369, 450, 138, 95
+	rotate: 90
+hp_3_crown_glow/hp_3_crown_glow_00016
+	bounds: 707, 498, 138, 95
+hp_3_crown_glow/hp_3_crown_glow_00017
+	bounds: 706, 401, 138, 95
+hp_3_crown_glow/hp_3_crown_glow_00018
+	bounds: 369, 310, 138, 95
+	rotate: 90
+hp_3_crown_glow/hp_3_crown_glow_00019
+	bounds: 706, 304, 138, 95
+hp_3_crown_glow/hp_3_crown_glow_00020
+	bounds: 847, 468, 138, 95
+hp_3_crown_glow/hp_3_crown_glow_00021
+	bounds: 846, 264, 138, 95
+hp_3_crown_glow/hp_3_crown_glow_00022
+	bounds: 704, 207, 138, 95
+hp_3_crown_glow/hp_3_crown_glow_00023
+	bounds: 844, 167, 138, 95
+hp_3_crown_glow/hp_3_crown_glow_00024
+	bounds: 984, 167, 138, 95
+hp_3_crown_glow/hp_3_crown_glow_00025
+	bounds: 1465, 616, 138, 95
+hp_3_crown_glow/hp_3_crown_glow_00026
+	bounds: 1605, 616, 138, 95
+hp_3_crown_glow/hp_3_crown_glow_00027
+	bounds: 1745, 616, 138, 95
+hp_3_crown_glow/hp_3_crown_glow_00028
+	bounds: 1465, 519, 138, 95
+hp_3_eyes_1
+	bounds: 1135, 34, 68, 9
+	offsets: 1, 1, 70, 11
+hp_3_eyes_2
+	bounds: 1135, 26, 66, 6
+	offsets: 1, 1, 68, 8
+hp_3_f_27
+	bounds: 1324, 572, 46, 141
+	offsets: 0, 0, 47, 141
+hp_3_f_27B
+	bounds: 221, 32, 47, 140
+	rotate: 90
+hp_3_f_28
+	bounds: 1387, 359, 33, 53
+	offsets: 0, 0, 34, 53
+hp_3_f_28B
+	bounds: 1449, 30, 33, 53
+	rotate: 90
+hp_3_face
+	bounds: 489, 93, 104, 122
+	rotate: 90
+hp_3_face_glow
+	bounds: 1254, 45, 102, 120
+hp_3_lh_1
+	bounds: 747, 949, 81, 169
+	rotate: 90
+hp_3_lh_2
+	bounds: 505, 929, 101, 240
+	offsets: 0, 2, 101, 244
+	rotate: 90
+hp_3_lh_2_glow/hp_3_lh_2_glow_00000
+	bounds: 575, 727, 1, 1
+hp_3_lh_2_glow/hp_3_lh_2_glow_00029
+	bounds: 575, 727, 1, 1
+hp_3_rh_2_glow/hp_3_rh_2_glow_00000
+	bounds: 575, 727, 1, 1
+hp_3_rh_2_glow/hp_3_rh_2_glow_00029
+	bounds: 575, 727, 1, 1
+hp_3_sch_1_glow/hp_3_sch_1_glow_00000
+	bounds: 575, 727, 1, 1
+hp_3_sch_2_glow/hp_3_sch_2_glow_00000
+	bounds: 575, 727, 1, 1
+power/Power_00011
+	bounds: 575, 727, 1, 1
+power/Power_00012
+	bounds: 575, 727, 1, 1
+power/Power_00014
+	bounds: 575, 727, 1, 1
+power/Power_00016
+	bounds: 575, 727, 1, 1
+power/Power_00018
+	bounds: 575, 727, 1, 1
+power/Power_00019
+	bounds: 575, 727, 1, 1
+power/Power_00020
+	bounds: 575, 727, 1, 1
+power/Power_00021
+	bounds: 575, 727, 1, 1
+power/Power_00022
+	bounds: 575, 727, 1, 1
+power/Power_00023
+	bounds: 575, 727, 1, 1
+hp_3_lh_2_glow/hp_3_lh_2_glow_00001
+	bounds: 948, 565, 13, 15
+	offsets: 0, 38, 69, 57
+	rotate: 90
+hp_3_lh_2_glow/hp_3_lh_2_glow_00002
+	bounds: 2, 2, 64, 55
+	offsets: 0, 2, 69, 57
+hp_3_lh_2_glow/hp_3_lh_2_glow_00003
+	bounds: 747, 103, 65, 56
+	offsets: 0, 1, 69, 57
+	rotate: 90
+hp_3_lh_2_glow/hp_3_lh_2_glow_00004
+	bounds: 772, 2, 66, 57
+	offsets: 0, 0, 69, 57
+	rotate: 90
+hp_3_lh_2_glow/hp_3_lh_2_glow_00005
+	bounds: 1602, 183, 67, 57
+	offsets: 0, 0, 69, 57
+	rotate: 90
+hp_3_lh_2_glow/hp_3_lh_2_glow_00006
+	bounds: 1661, 182, 68, 57
+	offsets: 0, 0, 69, 57
+	rotate: 90
+hp_3_lh_2_glow/hp_3_lh_2_glow_00007
+	bounds: 987, 521, 69, 57
+hp_3_lh_2_glow/hp_3_lh_2_glow_00008
+	bounds: 987, 462, 69, 57
+hp_3_lh_2_glow/hp_3_lh_2_glow_00009
+	bounds: 1295, 300, 69, 57
+hp_3_lh_2_glow/hp_3_lh_2_glow_00010
+	bounds: 1366, 300, 69, 57
+hp_3_lh_2_glow/hp_3_lh_2_glow_00011
+	bounds: 1064, 96, 69, 57
+	rotate: 90
+hp_3_lh_2_glow/hp_3_lh_2_glow_00012
+	bounds: 1515, 460, 69, 57
+hp_3_lh_2_glow/hp_3_lh_2_glow_00013
+	bounds: 1586, 460, 69, 57
+hp_3_lh_2_glow/hp_3_lh_2_glow_00014
+	bounds: 1657, 460, 69, 57
+hp_3_lh_2_glow/hp_3_lh_2_glow_00015
+	bounds: 1324, 501, 69, 57
+	rotate: 90
+hp_3_lh_2_glow/hp_3_lh_2_glow_00016
+	bounds: 1383, 525, 69, 57
+hp_3_lh_2_glow/hp_3_lh_2_glow_00017
+	bounds: 1728, 458, 69, 57
+hp_3_lh_2_glow/hp_3_lh_2_glow_00018
+	bounds: 1799, 458, 69, 57
+hp_3_lh_2_glow/hp_3_lh_2_glow_00019
+	bounds: 1437, 325, 69, 57
+hp_3_lh_2_glow/hp_3_lh_2_glow_00020
+	bounds: 1437, 266, 69, 57
+hp_3_lh_2_glow/hp_3_lh_2_glow_00021
+	bounds: 1437, 207, 69, 57
+hp_3_lh_2_glow/hp_3_lh_2_glow_00022
+	bounds: 1508, 311, 69, 57
+hp_3_lh_2_glow/hp_3_lh_2_glow_00023
+	bounds: 1508, 252, 69, 57
+hp_3_lh_2_glow/hp_3_lh_2_glow_00024
+	bounds: 1579, 311, 69, 57
+hp_3_lh_2_glow/hp_3_lh_2_glow_00025
+	bounds: 1579, 252, 69, 57
+hp_3_lh_2_glow/hp_3_lh_2_glow_00026
+	bounds: 1650, 299, 69, 57
+	rotate: 90
+hp_3_lh_2_glow/hp_3_lh_2_glow_00027
+	bounds: 1449, 136, 69, 57
+	rotate: 90
+hp_3_lh_2_glow/hp_3_lh_2_glow_00028
+	bounds: 1873, 564, 46, 50
+	offsets: 23, 6, 69, 57
+hp_3_lh_2_glow_part
+	bounds: 1449, 65, 69, 57
+	rotate: 90
+hp_3_neck
+	bounds: 281, 730, 165, 129
+hp_3_rh_1
+	bounds: 81, 122, 139, 191
+	offsets: 7, 10, 163, 205
+hp_3_rh_2
+	bounds: 2, 59, 77, 254
+	offsets: 10, 0, 91, 261
+hp_3_rh_2_glow/hp_3_rh_2_glow_00001
+	bounds: 229, 730, 14, 16
+	offsets: 55, 35, 69, 57
+	rotate: 90
+hp_3_rh_2_glow/hp_3_rh_2_glow_00002
+	bounds: 437, 32, 65, 54
+	offsets: 4, 3, 69, 57
+hp_3_rh_2_glow/hp_3_rh_2_glow_00003
+	bounds: 831, 2, 66, 56
+	offsets: 3, 1, 69, 57
+	rotate: 90
+hp_3_rh_2_glow/hp_3_rh_2_glow_00004
+	bounds: 1851, 283, 67, 56
+	offsets: 2, 1, 69, 57
+hp_3_rh_2_glow/hp_3_rh_2_glow_00005
+	bounds: 1851, 341, 68, 56
+	offsets: 1, 1, 69, 57
+hp_3_rh_2_glow/hp_3_rh_2_glow_00006
+	bounds: 1508, 103, 69, 57
+hp_3_rh_2_glow/hp_3_rh_2_glow_00007
+	bounds: 1508, 44, 69, 57
+hp_3_rh_2_glow/hp_3_rh_2_glow_00008
+	bounds: 1639, 123, 69, 57
+hp_3_rh_2_glow/hp_3_rh_2_glow_00009
+	bounds: 1639, 64, 69, 57
+hp_3_rh_2_glow/hp_3_rh_2_glow_00010
+	bounds: 935, 3, 69, 57
+hp_3_rh_2_glow/hp_3_rh_2_glow_00011
+	bounds: 1006, 3, 69, 57
+hp_3_rh_2_glow/hp_3_rh_2_glow_00012
+	bounds: 1077, 25, 69, 56
+	offsets: 0, 1, 69, 57
+	rotate: 90
+hp_3_rh_2_glow/hp_3_rh_2_glow_00013
+	bounds: 1709, 282, 69, 56
+	offsets: 0, 1, 69, 57
+hp_3_rh_2_glow/hp_3_rh_2_glow_00014
+	bounds: 1135, 45, 69, 57
+hp_3_rh_2_glow/hp_3_rh_2_glow_00015
+	bounds: 1704, 399, 69, 57
+hp_3_rh_2_glow/hp_3_rh_2_glow_00016
+	bounds: 1775, 399, 69, 57
+hp_3_rh_2_glow/hp_3_rh_2_glow_00017
+	bounds: 1709, 340, 69, 57
+hp_3_rh_2_glow/hp_3_rh_2_glow_00018
+	bounds: 1780, 340, 69, 57
+hp_3_rh_2_glow/hp_3_rh_2_glow_00019
+	bounds: 1780, 281, 69, 57
+hp_3_rh_2_glow/hp_3_rh_2_glow_00020
+	bounds: 1720, 211, 69, 57
+	rotate: 90
+hp_3_rh_2_glow/hp_3_rh_2_glow_00021
+	bounds: 1779, 222, 69, 57
+hp_3_rh_2_glow/hp_3_rh_2_glow_00022
+	bounds: 1850, 222, 69, 57
+hp_3_rh_2_glow/hp_3_rh_2_glow_00023
+	bounds: 1846, 399, 69, 57
+hp_3_rh_2_glow/hp_3_rh_2_glow_00024
+	bounds: 1779, 163, 69, 57
+hp_3_rh_2_glow/hp_3_rh_2_glow_00025
+	bounds: 1850, 163, 69, 57
+hp_3_rh_2_glow/hp_3_rh_2_glow_00026
+	bounds: 1740, 104, 69, 57
+hp_3_rh_2_glow/hp_3_rh_2_glow_00027
+	bounds: 1811, 105, 69, 56
+	offsets: 0, 0, 69, 57
+hp_3_rh_2_glow/hp_3_rh_2_glow_00028
+	bounds: 1870, 465, 49, 48
+	offsets: 0, 7, 69, 57
+hp_3_rh_2_glow_part
+	bounds: 363, 32, 72, 54
+hp_3_sch_1
+	bounds: 1191, 715, 134, 107
+	offsets: 1, 1, 136, 109
+hp_3_sch_1_glow/hp_3_sch_1_glow_00001
+	bounds: 747, 170, 93, 35
+	offsets: 32, 55, 136, 109
+hp_3_sch_1_glow/hp_3_sch_1_glow_00002
+	bounds: 1358, 40, 127, 89
+	offsets: 4, 20, 136, 109
+	rotate: 90
+hp_3_sch_1_glow/hp_3_sch_1_glow_00003
+	bounds: 1124, 104, 128, 90
+	offsets: 4, 19, 136, 109
+hp_3_sch_1_glow/hp_3_sch_1_glow_00004
+	bounds: 575, 407, 129, 91
+	offsets: 3, 18, 136, 109
+hp_3_sch_1_glow/hp_3_sch_1_glow_00005
+	bounds: 575, 313, 129, 92
+	offsets: 3, 17, 136, 109
+hp_3_sch_1_glow/hp_3_sch_1_glow_00006
+	bounds: 1342, 169, 129, 93
+	offsets: 3, 16, 136, 109
+	rotate: 90
+hp_3_sch_1_glow/hp_3_sch_1_glow_00007
+	bounds: 805, 70, 128, 95
+	offsets: 4, 14, 136, 109
+hp_3_sch_1_glow/hp_3_sch_1_glow_00008
+	bounds: 986, 264, 128, 96
+	offsets: 4, 13, 136, 109
+hp_3_sch_1_glow/hp_3_sch_1_glow_00009
+	bounds: 979, 362, 128, 98
+	offsets: 4, 11, 136, 109
+hp_3_sch_1_glow/hp_3_sch_1_glow_00010
+	bounds: 448, 730, 128, 100
+	offsets: 4, 9, 136, 109
+hp_3_sch_1_glow/hp_3_sch_1_glow_00011
+	bounds: 1124, 196, 128, 102
+	offsets: 4, 7, 136, 109
+hp_3_sch_1_glow/hp_3_sch_1_glow_00012
+	bounds: 935, 62, 127, 103
+	offsets: 4, 6, 136, 109
+hp_3_sch_1_glow/hp_3_sch_1_glow_00013
+	bounds: 1387, 414, 126, 103
+	offsets: 5, 6, 136, 109
+hp_3_sch_1_glow/hp_3_sch_1_glow_00014
+	bounds: 466, 332, 125, 107
+	offsets: 4, 2, 136, 109
+	rotate: 90
+hp_3_sch_1_glow/hp_3_sch_1_glow_00015
+	bounds: 362, 88, 125, 109
+	offsets: 3, 0, 136, 109
+hp_3_sch_1_glow/hp_3_sch_1_glow_00016
+	bounds: 331, 199, 128, 109
+	offsets: 1, 0, 136, 109
+hp_3_sch_1_glow/hp_3_sch_1_glow_00017
+	bounds: 575, 500, 130, 109
+	offsets: 0, 0, 136, 109
+hp_3_sch_1_glow/hp_3_sch_1_glow_00018
+	bounds: 785, 838, 131, 109
+	offsets: 0, 0, 136, 109
+hp_3_sch_1_glow/hp_3_sch_1_glow_00019
+	bounds: 1733, 713, 131, 109
+	offsets: 0, 0, 136, 109
+hp_3_sch_1_glow/hp_3_sch_1_glow_00020
+	bounds: 1058, 605, 131, 109
+	offsets: 0, 0, 136, 109
+hp_3_sch_1_glow/hp_3_sch_1_glow_00021
+	bounds: 1191, 604, 131, 109
+	offsets: 0, 0, 136, 109
+hp_3_sch_1_glow/hp_3_sch_1_glow_00022
+	bounds: 1058, 494, 131, 109
+	offsets: 0, 0, 136, 109
+hp_3_sch_1_glow/hp_3_sch_1_glow_00023
+	bounds: 1191, 493, 131, 109
+	offsets: 0, 0, 136, 109
+hp_3_sch_1_glow/hp_3_sch_1_glow_00024
+	bounds: 1465, 713, 132, 109
+	offsets: 0, 0, 136, 109
+hp_3_sch_1_glow/hp_3_sch_1_glow_00025
+	bounds: 1599, 713, 132, 109
+	offsets: 0, 0, 136, 109
+hp_3_sch_1_glow/hp_3_sch_1_glow_00026
+	bounds: 948, 580, 132, 108
+	offsets: 0, 0, 136, 109
+	rotate: 90
+hp_3_sch_1_glow/hp_3_sch_1_glow_00027
+	bounds: 466, 459, 131, 107
+	offsets: 0, 0, 136, 109
+	rotate: 90
+hp_3_sch_1_glow/hp_3_sch_1_glow_00028
+	bounds: 846, 361, 131, 105
+	offsets: 0, 0, 136, 109
+hp_3_sch_1_glow/hp_3_sch_1_glow_00029
+	bounds: 573, 207, 129, 104
+	offsets: 0, 0, 136, 109
+hp_3_sch_2
+	bounds: 918, 922, 140, 108
+	offsets: 1, 1, 142, 110
+hp_3_sch_2_glow/hp_3_sch_2_glow_00001
+	bounds: 1109, 375, 117, 50
+	offsets: 0, 41, 136, 109
+	rotate: 90
+hp_3_sch_2_glow/hp_3_sch_2_glow_00002
+	bounds: 1254, 167, 131, 86
+	offsets: 0, 23, 136, 109
+	rotate: 90
+hp_3_sch_2_glow/hp_3_sch_2_glow_00003
+	bounds: 1161, 300, 132, 88
+	offsets: 0, 21, 136, 109
+hp_3_sch_2_glow/hp_3_sch_2_glow_00004
+	bounds: 504, 2, 132, 89
+	offsets: 0, 20, 136, 109
+hp_3_sch_2_glow/hp_3_sch_2_glow_00005
+	bounds: 1295, 359, 132, 90
+	offsets: 0, 19, 136, 109
+	rotate: 90
+hp_3_sch_2_glow/hp_3_sch_2_glow_00006
+	bounds: 1372, 584, 132, 91
+	offsets: 0, 18, 136, 109
+	rotate: 90
+hp_3_sch_2_glow/hp_3_sch_2_glow_00007
+	bounds: 202, 316, 132, 93
+	offsets: 0, 16, 136, 109
+hp_3_sch_2_glow/hp_3_sch_2_glow_00008
+	bounds: 1605, 519, 132, 95
+	offsets: 0, 14, 136, 109
+hp_3_sch_2_glow/hp_3_sch_2_glow_00009
+	bounds: 1739, 517, 132, 97
+	offsets: 0, 12, 136, 109
+hp_3_sch_2_glow/hp_3_sch_2_glow_00010
+	bounds: 638, 2, 132, 99
+	offsets: 0, 10, 136, 109
+hp_3_sch_2_glow/hp_3_sch_2_glow_00011
+	bounds: 1161, 390, 132, 101
+	offsets: 0, 8, 136, 109
+hp_3_sch_2_glow/hp_3_sch_2_glow_00012
+	bounds: 613, 103, 132, 102
+	offsets: 0, 7, 136, 109
+hp_3_sch_2_glow/hp_3_sch_2_glow_00013
+	bounds: 813, 705, 131, 103
+	offsets: 0, 6, 136, 109
+	rotate: 90
+hp_3_sch_2_glow/hp_3_sch_2_glow_00014
+	bounds: 466, 199, 131, 105
+	offsets: 0, 4, 136, 109
+	rotate: 90
+hp_3_sch_2_glow/hp_3_sch_2_glow_00015
+	bounds: 918, 714, 133, 109
+	offsets: 0, 0, 136, 109
+hp_3_sch_2_glow/hp_3_sch_2_glow_00016
+	bounds: 575, 611, 134, 109
+	offsets: 0, 0, 136, 109
+hp_3_sch_2_glow/hp_3_sch_2_glow_00017
+	bounds: 1060, 921, 136, 109
+hp_3_sch_2_glow/hp_3_sch_2_glow_00018
+	bounds: 1198, 921, 136, 109
+hp_3_sch_2_glow/hp_3_sch_2_glow_00019
+	bounds: 1336, 921, 136, 109
+hp_3_sch_2_glow/hp_3_sch_2_glow_00020
+	bounds: 1474, 921, 136, 109
+hp_3_sch_2_glow/hp_3_sch_2_glow_00021
+	bounds: 1612, 921, 136, 109
+hp_3_sch_2_glow/hp_3_sch_2_glow_00022
+	bounds: 1750, 921, 136, 109
+hp_3_sch_2_glow/hp_3_sch_2_glow_00023
+	bounds: 229, 619, 136, 109
+hp_3_sch_2_glow/hp_3_sch_2_glow_00024
+	bounds: 229, 508, 136, 109
+hp_3_sch_2_glow/hp_3_sch_2_glow_00025
+	bounds: 464, 592, 136, 109
+	rotate: 90
+hp_3_sch_2_glow/hp_3_sch_2_glow_00026
+	bounds: 578, 722, 136, 108
+	offsets: 0, 0, 136, 109
+hp_3_sch_2_glow/hp_3_sch_2_glow_00027
+	bounds: 222, 178, 136, 107
+	offsets: 0, 0, 136, 109
+	rotate: 90
+hp_3_sch_2_glow/hp_3_sch_2_glow_00028
+	bounds: 1053, 716, 136, 106
+	offsets: 0, 0, 136, 109
+hp_3_sch_2_glow/hp_3_sch_2_glow_00029
+	bounds: 1327, 718, 136, 104
+	offsets: 0, 0, 136, 109
+power/Power_00000
+	bounds: 1650, 252, 45, 47
+	offsets: 17, 15, 80, 80
+	rotate: 90
+power/Power_00001
+	bounds: 1740, 55, 47, 47
+	offsets: 15, 15, 80, 80
+power/Power_00002
+	bounds: 1789, 55, 47, 47
+	offsets: 15, 15, 80, 80
+power/Power_00003
+	bounds: 1838, 56, 47, 47
+	offsets: 15, 15, 80, 80
+power/Power_00004
+	bounds: 1873, 515, 46, 47
+	offsets: 16, 15, 80, 80
+power/Power_00005
+	bounds: 1579, 19, 47, 47
+	offsets: 15, 15, 80, 80
+power/Power_00006
+	bounds: 1206, 55, 47, 46
+	offsets: 15, 16, 80, 80
+	rotate: 90
+power/Power_00007
+	bounds: 1628, 20, 47, 42
+	offsets: 15, 17, 80, 80
+power/Power_00008
+	bounds: 1116, 326, 47, 43
+	offsets: 15, 17, 80, 80
+	rotate: 90
+power/Power_00009
+	bounds: 1206, 11, 46, 42
+	offsets: 17, 17, 80, 80
+power/Power_00010
+	bounds: 1677, 19, 45, 43
+	offsets: 16, 17, 80, 80
+power/Power_00013
+	bounds: 889, 22, 44, 46
+	offsets: 17, 16, 80, 80
+power/Power_00015
+	bounds: 1882, 115, 35, 46
+	offsets: 20, 16, 80, 80
+power/Power_00017
+	bounds: 1740, 163, 37, 46
+	offsets: 19, 16, 80, 80

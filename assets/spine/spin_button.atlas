@@ -1,0 +1,19 @@
+spin_button.png
+size:752,600
+filter:Linear,Linear
+botton
+bounds:461,307,288,288
+offsets:27,11,343,330
+botton backlight
+bounds:2,141,457,454
+spin hover
+bounds:461,14,277,291
+offsets:1,1,279,293
+spin reg
+bounds:2,2,137,156
+offsets:0,0,137,157
+rotate:90
+stop hover
+bounds:160,3,136,136
+stop reg
+bounds:298,43,96,96

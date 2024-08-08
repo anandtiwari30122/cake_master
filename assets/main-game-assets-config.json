@@ -1,0 +1,427 @@
+{
+  "layouts": [
+    {
+      "name": "intro-screen",
+      "url": "./layouts/intro-screen.json"
+    },
+    {
+      "name": "main-screen",
+      "url": "./layouts/main-screen.json"
+    },
+    {
+      "name": "ui",
+      "url": "./layouts/ui.json"
+    },
+    {
+      "name": "popups",
+      "url": "./layouts/popups.json"
+    }
+  ],
+  "textures": [
+    {
+      "name": "main-screen",
+      "url": "./images/main-screen-0.json"
+    },
+    {
+      "name": "main-screen-background",
+      "url": "./images/main-game-screen.jpg"
+    },
+    {
+      "name": "main-screen-gradient",
+      "url": "./images/main-screen-gradient-0.json"
+    },
+    {
+      "name": "freegame-screen-background",
+      "url": "./images/freegame-screen.jpg"
+    },
+    {
+      "name": "animations",
+      "url": "./images/animations-0.json"
+    }
+  ],
+  "spine": [
+    {
+      "name": "freespins_popup",
+      "url": "./spine/freespin_popup"
+    },
+    {
+      "name": "big_win",
+      "url": "./spine/big_win"
+    },
+    {
+      "name": "mega_win",
+      "url": "./spine/mega_win"
+    },
+    {
+      "name": "super_win",
+      "url": "./spine/super_win"
+    },
+    {
+      "name": "grand_win",
+      "url": "./spine/grand_win"
+    },
+    {
+      "name": "character",
+      "url": "./spine/character"
+    },
+    {
+      "name": "logo",
+      "url": "./spine/logo"
+    },
+    {
+      "name": "button-spin",
+      "url": "./spine/spin_button"
+    },
+    {
+      "name": "symbol-00",
+      "url": "./spine/low_payout_1"
+    },
+    {
+      "name": "symbol-01",
+      "url": "./spine/low_payout_2"
+    },
+    {
+      "name": "symbol-02",
+      "url": "./spine/low_payout_3"
+    },
+    {
+      "name": "symbol-03",
+      "url": "./spine/low_payout_4"
+    },
+    {
+      "name": "symbol-04",
+      "url": "./spine/low_payout_5"
+    },
+    {
+      "name": "symbol-05",
+      "url": "./spine/high_payout_1"
+    },
+    {
+      "name": "symbol-06",
+      "url": "./spine/high_payout_2"
+    },
+    {
+      "name": "symbol-07",
+      "url": "./spine/high_payout_3"
+    },
+    {
+      "name": "symbol-08",
+      "url": "./spine/high_payout_4"
+    },
+    {
+      "name": "symbol-wild",
+      "url": "./spine/wild"
+    },
+    {
+      "name": "symbol-bonus",
+      "url": "./spine/bonus"
+    }
+  ],
+  "sounds": [
+    {
+      "name": "reel_anticipation",
+      "url": [
+        "./sounds/anticipation.mp3",
+        "./sounds/anticipation.ogg"
+      ]
+    },
+    {
+      "name": "big_win",
+      "url": [
+        "./sounds/big_win.mp3",
+        "./sounds/big_win.ogg"
+      ]
+    },
+    {
+      "name": "super_win",
+      "url": [
+        "./sounds/super_win.mp3",
+        "./sounds/super_win.ogg"
+      ]
+    },
+    {
+      "name": "ultra_win",
+      "url": [
+        "./sounds/ultra_win.mp3",
+        "./sounds/ultra_win.ogg"
+      ]
+    },
+    {
+      "name": "mega_win",
+      "url": [
+        "./sounds/mega_win.mp3",
+        "./sounds/mega_win.ogg"
+      ]
+    },
+    {
+      "name": "basegame_loop",
+      "url": [
+        "./sounds/ambient_basegame.mp3",
+        "./sounds/ambient_basegame.ogg"
+      ],
+      "channel": "ambient"
+    },
+    {
+      "name": "freegame_loop",
+      "url": [
+        "./sounds/ambient_freegame.mp3",
+        "./sounds/ambient_freegame.ogg"
+      ],
+      "channel": "ambient"
+    },
+    {
+      "name": "symbol_lp1_win",
+      "url": [
+        "./sounds/symbol_lp1_win.mp3",
+        "./sounds/symbol_lp1_win.ogg"
+      ]
+    },
+    {
+      "name": "symbol_lp2_win",
+      "url": [
+        "./sounds/symbol_lp2_win.mp3",
+        "./sounds/symbol_lp2_win.ogg"
+      ]
+    },
+    {
+      "name": "symbol_lp3_win",
+      "url": [
+        "./sounds/symbol_lp3_win.mp3",
+        "./sounds/symbol_lp3_win.ogg"
+      ]
+    },
+    {
+      "name": "symbol_lp4_win",
+      "url": [
+        "./sounds/symbol_lp4_win.mp3",
+        "./sounds/symbol_lp4_win.ogg"
+      ]
+    },
+    {
+      "name": "symbol_lp5_win",
+      "url": [
+        "./sounds/symbol_lp5_win.mp3",
+        "./sounds/symbol_lp5_win.ogg"
+      ]
+    },
+    {
+      "name": "symbol_hp1_win",
+      "url": [
+        "./sounds/symbol_hp1_win.mp3",
+        "./sounds/symbol_hp1_win.ogg"
+      ]
+    },
+    {
+      "name": "symbol_hp2_win",
+      "url": [
+        "./sounds/symbol_hp2_win.mp3",
+        "./sounds/symbol_hp2_win.ogg"
+      ]
+    },
+    {
+      "name": "symbol_hp3_win",
+      "url": [
+        "./sounds/symbol_hp3_win.mp3",
+        "./sounds/symbol_hp3_win.ogg"
+      ]
+    },
+    {
+      "name": "symbol_hp4_win",
+      "url": [
+        "./sounds/symbol_hp4_win.mp3",
+        "./sounds/symbol_hp4_win.ogg"
+      ]
+    },
+    {
+      "name": "symbol_scatter_win",
+      "url": [
+        "./sounds/symbol_scatter_win.mp3",
+        "./sounds/symbol_scatter_win.ogg"
+      ]
+    },
+    {
+      "name": "symbol_wild_win",
+      "url": [
+        "./sounds/symbol_wild_win.mp3",
+        "./sounds/symbol_wild_win.ogg"
+      ]
+    },
+    {
+      "name": "generic_win",
+      "url": [
+        "./sounds/generic_win.mp3",
+        "./sounds/generic_win.ogg"
+      ]
+    },
+    {
+      "name": "symbol_bonus_win",
+      "url": [
+        "./sounds/symbol_bonus_win.mp3",
+        "./sounds/symbol_bonus_win.ogg"
+      ]
+    },
+    {
+      "name": "button_spin_start",
+      "url": [
+        "./sounds/button_spin_start.mp3",
+        "./sounds/button_spin_start.ogg"
+      ]
+    },
+    {
+      "name": "button_spin_stop",
+      "url": [
+        "./sounds/button_spin_stop.mp3",
+        "./sounds/button_spin_stop.ogg"
+      ]
+    },
+    {
+      "name": "reel_spin",
+      "url": [
+        "./sounds/reel_spin.mp3",
+        "./sounds/reel_spin.ogg"
+      ]
+    },
+    {
+      "name": "reel_stop",
+      "url": [
+        "./sounds/reel_stop.mp3",
+        "./sounds/reel_stop.ogg"
+      ]
+    },
+    {
+      "name": "error_appearance",
+      "url": [
+        "./sounds/error_appearance.mp3",
+        "./sounds/error_appearance.ogg"
+      ]
+    },
+    {
+      "name": "total_win_appearance",
+      "url": [
+        "./sounds/total_win_appearance.mp3",
+        "./sounds/total_win_appearance.ogg"
+      ]
+    },
+    {
+      "name": "common_popup_window",
+      "url": [
+        "./sounds/common_popup_window.mp3",
+        "./sounds/common_popup_window.ogg"
+      ]
+    },
+    {
+      "name": "button_click",
+      "url": [
+        "./sounds/button_click.mp3",
+        "./sounds/button_click.ogg"
+      ]
+    },
+    {
+      "name": "counter_loop",
+      "url": [
+        "./sounds/counter_loop.mp3",
+        "./sounds/counter_loop.ogg"
+      ]
+    },
+    {
+      "name": "counter_end",
+      "url": [
+        "./sounds/counter_end.mp3",
+        "./sounds/counter_end.ogg"
+      ]
+    },
+    {
+      "name": "symbol_scatter_land",
+      "url": [
+        "./sounds/symbol_scatter_land.mp3",
+        "./sounds/symbol_scatter_land.ogg"
+      ]
+    },
+    {
+      "name": "symbol_wild_land",
+      "url": [
+        "./sounds/symbol_wild_land.mp3",
+        "./sounds/symbol_wild_land.ogg"
+      ]
+    },
+    {
+      "name": "popup_hide",
+      "url": [
+        "./sounds/popup_hide.mp3",
+        "./sounds/popup_hide.ogg"
+      ]
+    },
+    {
+      "name": "transition",
+      "url": [
+        "./sounds/transition.mp3",
+        "./sounds/transition.ogg"
+      ]
+    },
+    {
+      "name": "freespin_award",
+      "url": [
+        "./sounds/freespin_award.mp3",
+        "./sounds/freespin_award.ogg"
+      ]
+    },
+    {
+      "name": "freespin_win",
+      "url": [
+        "./sounds/freespin_win.mp3",
+        "./sounds/freespin_win.ogg"
+      ]
+    },
+    {
+      "name": "multiplier",
+      "url": [
+        "./sounds/multiplier.mp3",
+        "./sounds/multiplier.ogg"
+      ]
+    },
+    {
+      "name": "show_popup",
+      "url": [
+        "./sounds/show_popup.mp3",
+        "./sounds/show_popup.ogg"
+      ]
+    },
+    {
+      "name": "win_frame",
+      "url": [
+        "./sounds/win_frame.mp3",
+        "./sounds/win_frame.ogg"
+      ]
+    }
+  ],
+  "fonts": [
+    {
+      "name": "Gilroy",
+      "url": "./fonts/Gilroy-Medium.woff"
+    },
+    {
+      "name": "GilroyExtraBold",
+      "url": "./fonts/Gilroy-ExtraBold.woff"
+    },
+    {
+      "name": "SonsieOne",
+      "url": "./fonts/SonsieOne-Regular.woff"
+    },
+    {
+      "name": "BerlinSans",
+      "url": "./fonts/Berlin-Sans.woff"
+    },
+    {
+      "name": "ProtestRiot",
+      "url": "./fonts/ProtestRiot-Regular.woff"
+    },
+    {
+      "name": "Grobold",
+      "url": "./fonts/GROBOLD.woff"
+    },
+    {
+      "name": "LuckiestGuy",
+      "url": "./fonts/LuckiestGuy.woff"
+    }
+  ]
+}

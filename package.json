@@ -1,0 +1,43 @@
+{
+  "name": "slots-aztec-protectors",
+  "version": "0.0.1",
+  "description": "Slots - Aztec Protectors",
+  "main": "webpack.config.js",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "@esotericsoftware/spine-pixi": "^4.2.56",
+    "@pixi/particle-emitter": "^5.0.8",
+    "@pixi/ui": "^0.7.4",
+    "axios": "^1.4.0",
+    "howler": "^2.2.4",
+    "jwt-decode": "^3.1.2",
+    "pixi-stats": "^1.2.2",
+    "pixi.js": "^7.2.4",
+    "reflect-metadata": "^0.1.13",
+    "tsyringe": "^4.8.0",
+    "uuid": "^9.0.1",
+    "xml-js": "^1.6.11"
+  },
+  "devDependencies": {
+    "@types/howler": "^2.2.11",
+    "@types/jquery": "^3.5.29",
+    "@typescript-eslint/eslint-plugin": "^6.13.2",
+    "@typescript-eslint/parser": "^6.13.2",
+    "archiver": "^6.0.1",
+    "eslint": "^8.55.0",
+    "fs-extra": "^11.2.0",
+    "stream-browserify": "^3.0.0",
+    "terser-webpack-plugin": "^5.3.9",
+    "ts-loader": "^9.5.1",
+    "typescript": "^5.3.2",
+    "webpack": "^5.93.0",
+    "webpack-cli": "^5.1.4"
+  },
+  "scripts": {
+    "lint": "eslint ./src --fix",
+    "dev": "webpack --watch",
+    "clear": "find ./src -type f -name *.d.ts ! -name engineTween.d.ts ! -name GlobalMixins.d.ts -delete",
+    "prod": "webpack --mode production",
+    "build": "npm run prod && node scripts/BuildGamePackage.js"
+  }
+}

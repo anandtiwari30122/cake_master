@@ -1,0 +1,21 @@
+export enum CommonTokenConstants {
+    MOBILE_BORDER_PADDING = 'mobileBorderPadding',
+    AUTOSPIN_PANEL_BUTTON_SPACING = 'autospinPanelButtonSpacing',
+    AUTOSPIN_PANEL_CHECKBOX_SPACING = 'autospinPanelCheckbox',
+    AUTOSPIN_PANEL_MOBILE_MAX_BUTTONS_IN_ROW = 'autospinPanelMobileMaxButtonsInRow',
+    AUTOSPIN_PANEL_NUMBER_OF_SPINS = 'autospinPanelNumberOfSpins',
+    AUTOSPIN_PANEL_MOBILE_CONTAINER_WIDTH= 'autospinPanelMobileContainerWidth',
+    CASCADE_HISTORY_CELL_MAX_FONT_SIZE= 'cascadeHistoryCellMaxFontSize',
+    CASCADE_HISTORY_VIEW_FALLING_TIME= 'cascadeHistoryViewFallingTime',
+    CASCADE_HISTORY_VIEW_MAX_ELEMENTS = 'cascadeHistoryViewMaxElements',
+    CASCADE_HISTORY_VIEW_CELL_OFFSET = 'cascadeHistoryViewCellOffset',
+    CHECKBOX_OPTION_ALLOWED_CHARS = 'checkboxOptionAllowedChars',
+    CHECKBOX_OPTION_FONT = 'checkboxOptionFont',
+    CHECKBOX_OPTION_TEXT_COLOR = 'checkboxOptionTextColor',
+    CHECKBOX_OPTION_FONT_SIZE = 'checkboxOptionFontSize',
+    DOUBLE_CHANCE_BUTTON_COST_RATE = 'doubleChanceButtonCostRate',
+    PAYTABEL_PANEL_SYMBOL_CELL_SPACING = 'paytablePanelSymbolCellSpacing',
+    PAYTBALE_PANEL_MOBILE_TEXTFIELD_VERTICAL_SPACING = 'paytablePanelMobileTextfieldVerticalSpacing',
+    HISTORY_PANEL_DESKTOP_BORDER_PADDING = 'historyPanelDesktopBorderPadding',
+    HISTORY_PANEL_DESKTOP_BACKGROUND_WIDTH = 'historyPanelDesktopBackgroundWidth'
+}

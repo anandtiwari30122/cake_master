@@ -1,0 +1,32 @@
+mega_win.png
+	size: 1876, 1189
+	filter: Linear, Linear
+Swipe
+	bounds: 1694, 184, 161, 289
+blinky
+	bounds: 1694, 61, 119, 121
+	offsets: 0, 2, 119, 124
+frame_counter
+	bounds: 1694, 475, 712, 180
+	rotate: 90
+mw_mega
+	bounds: 1038, 407, 780, 249
+	offsets: 1, 1, 782, 251
+	rotate: 90
+mw_win
+	bounds: 2, 490, 1034, 697
+	offsets: 1, 1, 1036, 699
+win_glow/big_win_glow00
+	bounds: 1289, 22, 581, 403
+	offsets: 0, 0, 582, 404
+	rotate: 90
+win_glow/big_win_glow01
+	bounds: 2, 85, 582, 403
+	offsets: 0, 0, 582, 404
+win_glow/big_win_glow02
+	bounds: 1289, 605, 582, 403
+	offsets: 0, 0, 582, 404
+	rotate: 90
+win_glow/big_win_glow03
+	bounds: 586, 2, 581, 403
+	offsets: 1, 0, 582, 404

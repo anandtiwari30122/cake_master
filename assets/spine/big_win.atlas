@@ -1,0 +1,36 @@
+big_win.png
+	size: 1755, 1201
+	filter: Linear, Linear
+Swipe
+	bounds: 2, 2, 161, 289
+	rotate: 90
+big_win_glow/big_win_glow00
+	bounds: 945, 34, 581, 403
+	offsets: 0, 0, 582, 404
+	rotate: 90
+big_win_glow/big_win_glow01
+	bounds: 883, 617, 582, 403
+	offsets: 0, 0, 582, 404
+	rotate: 90
+big_win_glow/big_win_glow02
+	bounds: 1288, 618, 581, 403
+	offsets: 1, 0, 582, 404
+	rotate: 90
+big_win_glow/big_win_glow03
+	bounds: 1350, 36, 580, 403
+	offsets: 1, 0, 582, 404
+	rotate: 90
+blinky
+	bounds: 293, 42, 119, 121
+	offsets: 0, 2, 119, 124
+bw_BIG
+	bounds: 701, 22, 463, 242
+	offsets: 1, 1, 465, 244
+	rotate: 90
+bw_win
+	bounds: 2, 165, 1034, 697
+	offsets: 1, 1, 1036, 699
+	rotate: 90
+frame_counter
+	bounds: 701, 487, 712, 180
+	rotate: 90

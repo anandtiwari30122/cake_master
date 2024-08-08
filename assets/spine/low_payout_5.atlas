@@ -1,0 +1,119 @@
+low_payout_5.png
+	size: 839, 522
+	filter: Linear, Linear
+Glow/Glow_00
+	bounds: 2, 10, 1, 1
+Glow/Glow_01
+	bounds: 758, 2, 76, 87
+	offsets: 33, 29, 134, 143
+Glow/Glow_02
+	bounds: 377, 151, 78, 90
+	offsets: 32, 27, 134, 143
+	rotate: 90
+Glow/Glow_03
+	bounds: 561, 151, 80, 91
+	offsets: 31, 27, 134, 143
+	rotate: 90
+Glow/Glow_04
+	bounds: 727, 180, 82, 93
+	offsets: 30, 26, 134, 143
+	rotate: 90
+Glow/Glow_05
+	bounds: 641, 427, 84, 93
+	offsets: 29, 26, 134, 143
+Glow/Glow_06
+	bounds: 641, 332, 84, 93
+	offsets: 29, 26, 134, 143
+Glow/Glow_07
+	bounds: 494, 54, 85, 95
+	offsets: 28, 25, 134, 143
+Glow/Glow_08
+	bounds: 377, 328, 86, 95
+	offsets: 28, 25, 134, 143
+Glow/Glow_09
+	bounds: 377, 231, 86, 95
+	offsets: 28, 25, 134, 143
+Glow/Glow_10
+	bounds: 406, 54, 86, 95
+	offsets: 28, 25, 134, 143
+Glow/Glow_11
+	bounds: 142, 36, 86, 96
+	offsets: 28, 25, 134, 143
+Glow/Glow_12
+	bounds: 377, 425, 87, 95
+	offsets: 27, 25, 134, 143
+Glow/Glow_13
+	bounds: 230, 52, 86, 96
+	offsets: 28, 25, 134, 143
+Glow/Glow_14
+	bounds: 318, 52, 86, 96
+	offsets: 28, 25, 134, 143
+Glow/Glow_15
+	bounds: 465, 328, 86, 95
+	offsets: 28, 25, 134, 143
+Glow/Glow_16
+	bounds: 466, 425, 86, 95
+	offsets: 28, 25, 134, 143
+Glow/Glow_17
+	bounds: 465, 231, 86, 95
+	offsets: 28, 25, 134, 143
+Glow/Glow_18
+	bounds: 553, 329, 86, 94
+	offsets: 28, 25, 134, 143
+Glow/Glow_19
+	bounds: 554, 426, 85, 94
+	offsets: 29, 25, 134, 143
+Glow/Glow_20
+	bounds: 553, 233, 85, 94
+	offsets: 29, 25, 134, 143
+Glow/Glow_21
+	bounds: 640, 233, 85, 94
+	offsets: 29, 25, 134, 143
+Glow/Glow_22
+	bounds: 727, 436, 84, 94
+	offsets: 29, 25, 134, 143
+	rotate: 90
+Glow/Glow_23
+	bounds: 727, 350, 84, 93
+	offsets: 29, 26, 134, 143
+	rotate: 90
+Glow/Glow_24
+	bounds: 727, 264, 84, 93
+	offsets: 29, 26, 134, 143
+	rotate: 90
+Glow/Glow_25
+	bounds: 581, 56, 82, 93
+	offsets: 30, 26, 134, 143
+Glow/Glow_26
+	bounds: 665, 96, 82, 92
+	offsets: 30, 26, 134, 143
+	rotate: 90
+Glow/Glow_27
+	bounds: 665, 14, 80, 91
+	offsets: 31, 26, 134, 143
+	rotate: 90
+Glow/Glow_28
+	bounds: 469, 151, 78, 90
+	offsets: 32, 27, 134, 143
+	rotate: 90
+Glow/Glow_29
+	bounds: 759, 91, 78, 87
+	offsets: 32, 29, 134, 143
+lp_5_bg
+	bounds: 196, 336, 184, 179
+	offsets: 1, 1, 186, 181
+	rotate: 90
+lp_5_d_bg
+	bounds: 196, 150, 184, 179
+	offsets: 1, 1, 186, 181
+	rotate: 90
+lp_5_d_frame
+	bounds: 2, 328, 192, 192
+	offsets: 1, 1, 194, 194
+lp_5_frame
+	bounds: 2, 134, 192, 192
+	offsets: 1, 1, 194, 194
+lp_5_stone
+	bounds: 2, 13, 119, 138
+	offsets: 15, 5, 134, 143
+	rotate: 90

@@ -1,0 +1,34 @@
+super_win.png
+	size: 1443, 1484
+	filter: Linear, Linear
+Swipe
+	bounds: 1035, 25, 161, 289
+blinky
+	bounds: 1198, 195, 119, 121
+	offsets: 0, 2, 119, 124
+	rotate: 90
+frame_counter
+	bounds: 225, 603, 712, 180
+sw_super
+	bounds: 2, 2, 781, 221
+	offsets: 1, 1, 783, 223
+	rotate: 90
+sw_win
+	bounds: 2, 785, 1034, 697
+	offsets: 1, 1, 1036, 699
+win_glow/big_win_glow00
+	bounds: 225, 20, 581, 403
+	offsets: 0, 0, 582, 404
+	rotate: 90
+win_glow/big_win_glow01
+	bounds: 1038, 900, 582, 403
+	offsets: 0, 0, 582, 404
+	rotate: 90
+win_glow/big_win_glow02
+	bounds: 1038, 316, 582, 403
+	offsets: 0, 0, 582, 404
+	rotate: 90
+win_glow/big_win_glow03
+	bounds: 630, 20, 581, 403
+	offsets: 1, 0, 582, 404
+	rotate: 90

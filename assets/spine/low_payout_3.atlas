@@ -1,0 +1,108 @@
+low_payout_3.png
+	size: 907, 876
+	filter: Linear, Linear
+Glow_lp3/Glow_lp3_00
+	bounds: 165, 740, 134, 143
+	rotate: 90
+Glow_lp3/Glow_lp3_01
+	bounds: 310, 740, 134, 143
+	rotate: 90
+Glow_lp3/Glow_lp3_02
+	bounds: 455, 740, 134, 143
+	rotate: 90
+Glow_lp3/Glow_lp3_03
+	bounds: 600, 740, 134, 143
+	rotate: 90
+Glow_lp3/Glow_lp3_04
+	bounds: 745, 740, 134, 143
+	rotate: 90
+Glow_lp3/Glow_lp3_05
+	bounds: 2, 619, 134, 143
+	rotate: 90
+Glow_lp3/Glow_lp3_06
+	bounds: 147, 604, 134, 143
+	rotate: 90
+Glow_lp3/Glow_lp3_07
+	bounds: 292, 604, 134, 143
+	rotate: 90
+Glow_lp3/Glow_lp3_08
+	bounds: 437, 604, 134, 143
+	rotate: 90
+Glow_lp3/Glow_lp3_09
+	bounds: 582, 604, 134, 143
+	rotate: 90
+Glow_lp3/Glow_lp3_10
+	bounds: 727, 604, 134, 143
+	rotate: 90
+Glow_lp3/Glow_lp3_11
+	bounds: 2, 483, 134, 143
+	rotate: 90
+Glow_lp3/Glow_lp3_12
+	bounds: 147, 468, 134, 143
+	rotate: 90
+Glow_lp3/Glow_lp3_13
+	bounds: 292, 468, 134, 143
+	rotate: 90
+Glow_lp3/Glow_lp3_14
+	bounds: 437, 468, 134, 143
+	rotate: 90
+Glow_lp3/Glow_lp3_15
+	bounds: 582, 468, 134, 143
+	rotate: 90
+Glow_lp3/Glow_lp3_16
+	bounds: 727, 468, 134, 143
+	rotate: 90
+Glow_lp3/Glow_lp3_17
+	bounds: 2, 347, 134, 143
+	rotate: 90
+Glow_lp3/Glow_lp3_18
+	bounds: 147, 332, 134, 143
+	rotate: 90
+Glow_lp3/Glow_lp3_19
+	bounds: 292, 332, 134, 143
+	rotate: 90
+Glow_lp3/Glow_lp3_20
+	bounds: 437, 332, 134, 143
+	rotate: 90
+Glow_lp3/Glow_lp3_21
+	bounds: 582, 332, 134, 143
+	rotate: 90
+Glow_lp3/Glow_lp3_22
+	bounds: 727, 332, 134, 143
+	rotate: 90
+Glow_lp3/Glow_lp3_23
+	bounds: 2, 211, 134, 143
+	rotate: 90
+Glow_lp3/Glow_lp3_24
+	bounds: 147, 196, 134, 143
+	rotate: 90
+Glow_lp3/Glow_lp3_25
+	bounds: 292, 196, 134, 143
+	rotate: 90
+Glow_lp3/Glow_lp3_26
+	bounds: 437, 196, 134, 143
+	rotate: 90
+Glow_lp3/Glow_lp3_27
+	bounds: 582, 196, 134, 143
+	rotate: 90
+Glow_lp3/Glow_lp3_28
+	bounds: 727, 196, 134, 143
+	rotate: 90
+Glow_lp3/Glow_lp3_29
+	bounds: 2, 75, 134, 143
+	rotate: 90
+lp_3_bg
+	bounds: 147, 15, 184, 179
+	offsets: 1, 1, 186, 181
+lp_3_d_bg
+	bounds: 333, 15, 184, 179
+	offsets: 1, 1, 186, 181
+lp_3_d_frame
+	bounds: 519, 2, 192, 192
+	offsets: 1, 1, 194, 194
+lp_3_frame
+	bounds: 713, 2, 192, 192
+	offsets: 1, 1, 194, 194
+lp_3_stone
+	bounds: 2, 755, 119, 161
+	rotate: 90

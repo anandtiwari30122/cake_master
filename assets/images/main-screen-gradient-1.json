@@ -1,0 +1,21 @@
+{"frames": {
+
+"reel":
+{
+	"frame": {"x":1,"y":1,"w":1184,"h":915},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1184,"h":915},
+	"sourceSize": {"w":1184,"h":915}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.1",
+	"image": "main-screen-gradient-1.png",
+	"format": "RGBA8888",
+	"size": {"w":1186,"h":917},
+	"scale": "1",
+	"related_multi_packs": [ "main-screen-gradient-0.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:d7117df90d8acbf0a579759e7d6fc493:a6cde8b0f6b0c225bc8e85310df255de:771a767818af2b053fa762881c43ba6a$"
+}
+}

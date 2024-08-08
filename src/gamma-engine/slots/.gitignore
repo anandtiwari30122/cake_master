@@ -1,0 +1,6 @@
+# IntelliJ project files
+.idea
+*.iml
+/**/*.map
+/**/*.js
+/**/*.d.ts

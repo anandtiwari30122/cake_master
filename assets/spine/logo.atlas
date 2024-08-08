@@ -1,0 +1,152 @@
+logo.png
+	size: 1905, 792
+	filter: Linear, Linear
+Swipe
+	bounds: 2, 501, 161, 289
+tit_az
+	bounds: 108, 33, 203, 45
+	offsets: 1, 1, 205, 47
+	rotate: 90
+tit_crown
+	bounds: 1808, 146, 143, 61
+	offsets: 19, 79, 181, 141
+	rotate: 90
+tit_f_1
+	bounds: 165, 502, 25, 59
+	rotate: 90
+tit_f_2
+	bounds: 8, 2, 54, 17
+	offsets: 0, 7, 54, 24
+tit_f_3
+	bounds: 180, 2, 50, 59
+tit_f_4
+	bounds: 226, 507, 20, 54
+	rotate: 90
+tit_f_5
+	bounds: 294, 14, 43, 47
+tit_f_6
+	bounds: 118, 6, 25, 60
+	rotate: 90
+tit_f_7
+	bounds: 64, 3, 52, 17
+	offsets: 0, 7, 53, 24
+tit_f_8
+	bounds: 232, 12, 49, 60
+	rotate: 90
+tit_f_9
+	bounds: 282, 507, 20, 53
+	rotate: 90
+tit_f_bg
+	bounds: 1750, 291, 236, 150
+	offsets: 1, 1, 238, 152
+	rotate: 90
+tit_f_line
+	bounds: 2, 17, 219, 4
+	offsets: 1, 1, 221, 6
+	rotate: 90
+tit_f_shadow
+	bounds: 34, 22, 214, 72
+	offsets: 1, 1, 216, 74
+	rotate: 90
+tit_frame
+	bounds: 1635, 6, 259, 171
+	offsets: 1, 1, 261, 173
+	rotate: 90
+tit_frame_glow/tit_frame_glow_00000
+	bounds: 2, 14, 1, 1
+tit_frame_glow/tit_frame_glow_00029
+	bounds: 2, 14, 1, 1
+tit_frame_glow/tit_frame_glow_00001
+	bounds: 1466, 3, 261, 167
+	offsets: 0, 6, 261, 173
+	rotate: 90
+tit_frame_glow/tit_frame_glow_00002
+	bounds: 1563, 529, 261, 170
+	offsets: 0, 3, 261, 173
+	rotate: 90
+tit_frame_glow/tit_frame_glow_00003
+	bounds: 1390, 529, 261, 171
+	offsets: 0, 2, 261, 173
+	rotate: 90
+tit_frame_glow/tit_frame_glow_00004
+	bounds: 1293, 3, 261, 171
+	offsets: 0, 2, 261, 173
+	rotate: 90
+tit_frame_glow/tit_frame_glow_00005
+	bounds: 1402, 266, 261, 171
+	offsets: 0, 2, 261, 173
+	rotate: 90
+tit_frame_glow/tit_frame_glow_00006
+	bounds: 2, 238, 261, 173
+	rotate: 90
+tit_frame_glow/tit_frame_glow_00007
+	bounds: 165, 529, 261, 173
+	rotate: 90
+tit_frame_glow/tit_frame_glow_00008
+	bounds: 155, 63, 261, 173
+tit_frame_glow/tit_frame_glow_00009
+	bounds: 177, 239, 261, 173
+	rotate: 90
+tit_frame_glow/tit_frame_glow_00010
+	bounds: 340, 529, 261, 173
+	rotate: 90
+tit_frame_glow/tit_frame_glow_00011
+	bounds: 352, 266, 261, 173
+	rotate: 90
+tit_frame_glow/tit_frame_glow_00012
+	bounds: 1575, 267, 260, 173
+	offsets: 1, 0, 261, 173
+	rotate: 90
+tit_frame_glow/tit_frame_glow_00013
+	bounds: 515, 529, 261, 173
+	rotate: 90
+tit_frame_glow/tit_frame_glow_00014
+	bounds: 418, 3, 261, 173
+	rotate: 90
+tit_frame_glow/tit_frame_glow_00015
+	bounds: 527, 266, 261, 173
+	rotate: 90
+tit_frame_glow/tit_frame_glow_00016
+	bounds: 690, 529, 261, 173
+	rotate: 90
+tit_frame_glow/tit_frame_glow_00017
+	bounds: 593, 3, 261, 173
+	rotate: 90
+tit_frame_glow/tit_frame_glow_00018
+	bounds: 702, 266, 261, 173
+	rotate: 90
+tit_frame_glow/tit_frame_glow_00019
+	bounds: 865, 529, 261, 173
+	rotate: 90
+tit_frame_glow/tit_frame_glow_00020
+	bounds: 768, 3, 261, 173
+	rotate: 90
+tit_frame_glow/tit_frame_glow_00021
+	bounds: 877, 266, 261, 173
+	rotate: 90
+tit_frame_glow/tit_frame_glow_00022
+	bounds: 1040, 529, 261, 173
+	rotate: 90
+tit_frame_glow/tit_frame_glow_00023
+	bounds: 943, 3, 261, 173
+	rotate: 90
+tit_frame_glow/tit_frame_glow_00024
+	bounds: 1052, 266, 261, 173
+	rotate: 90
+tit_frame_glow/tit_frame_glow_00025
+	bounds: 1215, 529, 261, 173
+	rotate: 90
+tit_frame_glow/tit_frame_glow_00026
+	bounds: 1118, 3, 261, 173
+	rotate: 90
+tit_frame_glow/tit_frame_glow_00027
+	bounds: 1227, 266, 261, 173
+	rotate: 90
+tit_frame_glow/tit_frame_glow_00028
+	bounds: 1735, 529, 261, 168
+	offsets: 0, 5, 261, 173
+	rotate: 90
+tit_pro
+	bounds: 8, 21, 215, 24
+	offsets: 1, 1, 217, 26
+	rotate: 90

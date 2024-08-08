@@ -1,0 +1,57 @@
+﻿<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="utf-8"/>
+    <meta name="viewport"
+          content="minimum-scale=1,maximum-scale=1,user-scalable=no,width=device-width,minimal-ui,viewport-fit=cover">
+    <meta http-equiv="X-UA-Compatible" content="IE=11">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="default">
+    <meta name="msapplication-tap-highlight" content="no">
+
+    <title>Gammastack - Aztec Protector</title>
+    <style>
+        html, body {
+            margin: 0;
+            padding: 0;
+            border: 0;
+            overflow: hidden;
+            width: 100%;
+            height: 100%;
+            background: #000 url("assets/images/loading.gif") center no-repeat;
+            background-size: 50px 50px;
+        }
+    </style>
+
+    <script src="./dist/game.bundle.js"></script>
+</head>
+<body>
+<div id="game"></div>
+
+<script type="text/javascript">
+    var game;
+
+    document.addEventListener('DOMContentLoaded', function (event) {
+        var config = {
+            //CONSOLE LOG OPTIONS
+            logLevel: 0,
+            debug: false,
+            mobileLog: false,
+
+            //SERVICE OPTIONS
+            lobbyUrl: 'https://google.com',
+            startingBalance: 5000,
+
+            serverApiUrl: 'https://user-api-dev.exagaming.com/api/v1/game/slot/engine-eleven/',//'https://smdevgm.back138.com/GameSeriesV52/api',
+            jwtToken: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJnYW1lSWQiOjE2LCJpZCI6IjIyIiwidXNlcklkIjoiMjIiLCJ1c2VyQ29kZSI6IjE3Iiwib3BlcmF0b3JJZCI6MSwiY3VycmVuY3lDb2RlIjoiRVVSIiwiY3VycmVuY3lJZCI6IjEiLCJ1c2VyVG9rZW4iOiIxYmM5OWNiOWQxZTI0ZmIzMDNhZmZmMTE2OTQ2ZDgzYTJlMTgzM2I2NjY4ODg5ZTc2MzIxNTAxZjc4MGRlMjUwIiwiaWF0IjoxNzIzMDE4MTc4LCJleHAiOjE3MjMxMDQ1Nzh9.0jUkQDA0lOSbvjDTJ6gQ5LzAN9UhnCEHBYI9dhjqgPE',
+            gameCode: '8',
+            language: 'EN'
+        };
+
+        game = new gammastack.AztecProtectors(document.getElementById('game'), config);
+    });
+
+</script>
+</body>
+</html>

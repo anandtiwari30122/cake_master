@@ -1,0 +1,385 @@
+bonus.png
+	size: 920, 1032
+	filter: Linear, Linear
+Shine
+	bounds: 391, 121, 52, 52
+	offsets: 0, 0, 53, 52
+bonus text/bonus 2_00000
+	bounds: 280, 557, 103, 39
+	offsets: 7, 7, 115, 65
+	rotate: 90
+bonus text/bonus 2_00001
+	bounds: 318, 423, 102, 39
+	offsets: 8, 7, 115, 65
+bonus text/bonus 2_00002
+	bounds: 152, 232, 100, 39
+	offsets: 10, 7, 115, 65
+	rotate: 90
+bonus text/bonus 2_00003
+	bounds: 218, 408, 97, 39
+	offsets: 13, 7, 115, 65
+bonus text/bonus 2_00004
+	bounds: 726, 670, 98, 50
+	offsets: 12, 7, 115, 65
+	rotate: 90
+bonus text/bonus 2_00005
+	bounds: 329, 703, 103, 58
+	offsets: 7, 7, 115, 65
+bonus text/bonus 2_00006
+	bounds: 277, 449, 106, 39
+	offsets: 4, 7, 115, 65
+	rotate: 90
+bonus text/bonus 2_00007
+	bounds: 347, 866, 108, 55
+	offsets: 2, 0, 115, 65
+bonus text/bonus 2_00008
+	bounds: 113, 548, 110, 63
+	offsets: 0, 1, 115, 65
+	rotate: 90
+bonus text/bonus 2_00009
+	bounds: 109, 9, 105, 37
+	offsets: 5, 7, 115, 65
+	rotate: 90
+bonus text/bonus 2_00010
+	bounds: 601, 770, 103, 52
+	offsets: 7, 5, 115, 65
+bonus text/bonus 2_00011
+	bounds: 177, 662, 103, 60
+	offsets: 7, 4, 115, 65
+bonus text/bonus 2_00012
+	bounds: 317, 380, 103, 41
+	offsets: 7, 4, 115, 65
+bonus text/bonus 2_00013
+	bounds: 496, 765, 103, 55
+	offsets: 7, 1, 115, 65
+bonus text/bonus 2_00014
+	bounds: 430, 763, 101, 64
+	offsets: 7, 0, 115, 65
+	rotate: 90
+bonus text/bonus 2_00015
+	bounds: 318, 464, 100, 41
+	offsets: 7, 3, 115, 65
+bonus text/bonus 2_00016
+	bounds: 773, 774, 101, 51
+	offsets: 7, 0, 115, 65
+bonus text/bonus 2_00017
+	bounds: 218, 449, 106, 57
+	offsets: 7, 0, 115, 65
+	rotate: 90
+bonus text/bonus 2_00018
+	bounds: 196, 827, 108, 45
+	offsets: 7, 0, 115, 65
+bonus text/bonus 2_00019
+	bounds: 282, 717, 108, 45
+	offsets: 7, 0, 115, 65
+	rotate: 90
+bonus text/bonus 2_00020
+	bounds: 618, 559, 108, 44
+	offsets: 7, 1, 115, 65
+	rotate: 90
+bonus text/bonus 2_00021
+	bounds: 664, 564, 105, 41
+	offsets: 7, 4, 115, 65
+	rotate: 90
+bonus text/bonus 2_00022
+	bounds: 814, 436, 104, 39
+	offsets: 7, 6, 115, 65
+bonus text/bonus 2_00023
+	bounds: 814, 395, 104, 39
+	offsets: 7, 6, 115, 65
+bonus text/bonus 2_00024
+	bounds: 814, 354, 104, 39
+	offsets: 7, 6, 115, 65
+bonus text/bonus 2_00025
+	bounds: 814, 313, 104, 39
+	offsets: 7, 6, 115, 65
+bonus text/bonus 2_00026
+	bounds: 814, 272, 104, 39
+	offsets: 7, 6, 115, 65
+bonus text/bonus 2_00027
+	bounds: 110, 118, 104, 39
+	offsets: 7, 6, 115, 65
+	rotate: 90
+bonus text/bonus 2_00028
+	bounds: 148, 12, 104, 39
+	offsets: 7, 6, 115, 65
+	rotate: 90
+bonus text/bonus 2_00029
+	bounds: 111, 227, 104, 39
+	offsets: 7, 6, 115, 65
+	rotate: 90
+frame_glow/frame_glow00
+	bounds: 318, 554, 1, 1
+frame_glow/frame_glow28
+	bounds: 318, 554, 1, 1
+frame_glow/frame_glow29
+	bounds: 318, 554, 1, 1
+frame_glow/frame_glow01
+	bounds: 434, 669, 94, 92
+	offsets: 11, 11, 115, 115
+frame_glow/frame_glow02
+	bounds: 530, 669, 96, 94
+	offsets: 11, 10, 115, 115
+frame_glow/frame_glow03
+	bounds: 696, 828, 98, 96
+	offsets: 10, 9, 115, 115
+frame_glow/frame_glow04
+	bounds: 496, 822, 100, 99
+	offsets: 9, 7, 115, 115
+	rotate: 90
+frame_glow/frame_glow05
+	bounds: 177, 724, 103, 101
+	offsets: 7, 6, 115, 115
+frame_glow/frame_glow06
+	bounds: 113, 441, 105, 103
+	offsets: 6, 5, 115, 115
+	rotate: 90
+frame_glow/frame_glow07
+	bounds: 679, 926, 107, 104
+	offsets: 5, 4, 115, 115
+frame_glow/frame_glow08
+	bounds: 569, 925, 108, 105
+	offsets: 5, 4, 115, 115
+frame_glow/frame_glow09
+	bounds: 458, 924, 109, 106
+	offsets: 4, 4, 115, 115
+frame_glow/frame_glow10
+	bounds: 2, 551, 109, 107
+	offsets: 4, 3, 115, 115
+frame_glow/frame_glow11
+	bounds: 347, 923, 109, 107
+	offsets: 4, 3, 115, 115
+frame_glow/frame_glow12
+	bounds: 2, 442, 109, 107
+	offsets: 4, 3, 115, 115
+frame_glow/frame_glow13
+	bounds: 2, 333, 108, 107
+	offsets: 4, 3, 115, 115
+frame_glow/frame_glow14
+	bounds: 2, 224, 107, 107
+	offsets: 4, 3, 115, 115
+frame_glow/frame_glow15
+	bounds: 2, 116, 106, 106
+	offsets: 4, 4, 115, 115
+frame_glow/frame_glow16
+	bounds: 2, 8, 105, 106
+	offsets: 5, 4, 115, 115
+frame_glow/frame_glow17
+	bounds: 788, 926, 104, 105
+	offsets: 5, 5, 115, 115
+	rotate: 90
+frame_glow/frame_glow18
+	bounds: 112, 334, 103, 105
+	offsets: 6, 5, 115, 115
+frame_glow/frame_glow19
+	bounds: 178, 557, 100, 103
+	offsets: 8, 6, 115, 115
+frame_glow/frame_glow20
+	bounds: 329, 763, 99, 101
+	offsets: 9, 8, 115, 115
+frame_glow/frame_glow21
+	bounds: 597, 824, 97, 99
+	offsets: 10, 9, 115, 115
+frame_glow/frame_glow22
+	bounds: 796, 827, 97, 97
+	offsets: 10, 10, 115, 115
+frame_glow/frame_glow23
+	bounds: 618, 462, 96, 95
+	offsets: 11, 11, 115, 115
+frame_glow/frame_glow24
+	bounds: 521, 376, 95, 95
+	offsets: 11, 11, 115, 115
+frame_glow/frame_glow25
+	bounds: 521, 281, 95, 93
+	offsets: 11, 12, 115, 115
+frame_glow/frame_glow26
+	bounds: 151, 119, 94, 91
+	offsets: 11, 13, 115, 115
+frame_glow/frame_glow27
+	bounds: 247, 119, 91, 89
+	offsets: 14, 14, 115, 115
+	rotate: 90
+inner glare/Inner BG_00000
+	bounds: 628, 671, 97, 96
+	rotate: 90
+inner glare/Inner BG_00001
+	bounds: 778, 675, 97, 96
+	rotate: 90
+inner glare/Inner BG_00002
+	bounds: 321, 605, 97, 96
+inner glare/Inner BG_00003
+	bounds: 420, 571, 97, 96
+inner glare/Inner BG_00004
+	bounds: 519, 571, 97, 96
+inner glare/Inner BG_00005
+	bounds: 321, 507, 97, 96
+inner glare/Inner BG_00006
+	bounds: 420, 473, 97, 96
+inner glare/Inner BG_00007
+	bounds: 519, 473, 97, 96
+inner glare/Inner BG_00008
+	bounds: 707, 571, 97, 96
+	rotate: 90
+inner glare/Inner BG_00009
+	bounds: 805, 576, 97, 96
+	rotate: 90
+inner glare/Inner BG_00010
+	bounds: 716, 472, 97, 96
+	rotate: 90
+inner glare/Inner BG_00011
+	bounds: 814, 477, 97, 96
+	rotate: 90
+inner glare/Inner BG_00012
+	bounds: 716, 373, 97, 96
+	rotate: 90
+inner glare/Inner BG_00013
+	bounds: 422, 375, 97, 96
+inner glare/Inner BG_00014
+	bounds: 618, 363, 97, 96
+	rotate: 90
+inner glare/Inner BG_00015
+	bounds: 716, 274, 97, 96
+	rotate: 90
+inner glare/Inner BG_00016
+	bounds: 618, 264, 97, 96
+	rotate: 90
+inner glare/Inner BG_00017
+	bounds: 716, 175, 97, 96
+	rotate: 90
+inner glare/Inner BG_00018
+	bounds: 814, 174, 97, 96
+inner glare/Inner BG_00019
+	bounds: 217, 310, 97, 96
+inner glare/Inner BG_00020
+	bounds: 316, 282, 97, 96
+inner glare/Inner BG_00021
+	bounds: 415, 277, 97, 96
+inner glare/Inner BG_00022
+	bounds: 193, 212, 97, 96
+inner glare/Inner BG_00023
+	bounds: 189, 20, 97, 96
+	rotate: 90
+inner glare/Inner BG_00024
+	bounds: 287, 20, 97, 96
+	rotate: 90
+inner glare/Inner BG_00025
+	bounds: 385, 20, 97, 96
+	rotate: 90
+inner glare/Inner BG_00026
+	bounds: 415, 179, 97, 96
+inner glare/Inner BG_00027
+	bounds: 514, 183, 97, 96
+inner glare/Inner BG_00028
+	bounds: 613, 166, 97, 96
+inner glare/Inner BG_00029
+	bounds: 514, 85, 97, 96
+ring_design/bonus 2_Design_1_00001
+	bounds: 880, 131, 38, 41
+	offsets: 8, 16, 57, 72
+ring_design/bonus 2_Design_1_00002
+	bounds: 773, 20, 46, 44
+	offsets: 2, 14, 57, 72
+ring_design/bonus 2_Design_1_00003
+	bounds: 821, 31, 48, 46
+	offsets: 1, 14, 57, 72
+ring_design/bonus 2_Design_1_00004
+	bounds: 670, 42, 55, 47
+	offsets: 1, 14, 57, 72
+	rotate: 90
+ring_design/bonus 2_Design_1_00005
+	bounds: 616, 41, 55, 52
+	offsets: 1, 10, 57, 72
+	rotate: 90
+ring_design/bonus 2_Design_1_00006
+	bounds: 338, 119, 54, 51
+	offsets: 1, 11, 57, 72
+	rotate: 90
+ring_design/bonus 2_Design_1_00007
+	bounds: 706, 770, 56, 65
+	offsets: 0, 0, 57, 72
+	rotate: 90
+ring_design/bonus 2_Design_1_00008
+	bounds: 349, 225, 55, 64
+	offsets: 0, 0, 57, 72
+	rotate: 90
+ring_design/bonus 2_Design_1_00009
+	bounds: 292, 215, 55, 65
+	offsets: 0, 0, 57, 72
+ring_design/bonus 2_Design_1_00010
+	bounds: 613, 98, 52, 66
+	offsets: 1, 0, 57, 72
+ring_design/bonus 2_Design_1_00011
+	bounds: 667, 99, 52, 65
+	offsets: 1, 1, 57, 72
+ring_design/bonus 2_Design_1_00012
+	bounds: 721, 108, 50, 65
+	offsets: 2, 2, 57, 72
+ring_design/bonus 2_Design_1_00013
+	bounds: 813, 122, 50, 65
+	offsets: 3, 3, 57, 72
+	rotate: 90
+ring_design/bonus 2_Design_1_00014
+	bounds: 483, 34, 49, 64
+	offsets: 3, 4, 57, 72
+	rotate: 90
+ring_design/bonus 2_Design_1_00015
+	bounds: 349, 175, 48, 64
+	offsets: 4, 5, 57, 72
+	rotate: 90
+ring_design/bonus 2_Design_1_00016
+	bounds: 549, 40, 43, 65
+	offsets: 4, 5, 57, 72
+	rotate: 90
+ring_design/bonus 2_Design_1_00017
+	bounds: 813, 79, 41, 61
+	offsets: 4, 6, 57, 72
+	rotate: 90
+ring_design/bonus 2_Design_1_00018
+	bounds: 721, 66, 40, 61
+	offsets: 4, 7, 57, 72
+	rotate: 90
+ring_design/bonus 2_Design_1_00019
+	bounds: 876, 694, 42, 64
+	offsets: 4, 5, 57, 72
+ring_design/bonus 2_Design_1_00020
+	bounds: 876, 760, 42, 65
+	offsets: 4, 5, 57, 72
+ring_design/bonus 2_Design_1_00021
+	bounds: 445, 137, 40, 65
+	offsets: 6, 6, 57, 72
+	rotate: 90
+ring_design/bonus 2_Design_1_00022
+	bounds: 773, 114, 38, 59
+	offsets: 8, 8, 57, 72
+ring_design/bonus 2_Design_1_00023
+	bounds: 616, 2, 37, 59
+	offsets: 9, 9, 57, 72
+	rotate: 90
+ring_design/bonus 2_Design_1_00024
+	bounds: 282, 669, 37, 46
+	offsets: 9, 10, 57, 72
+ring_design/bonus 2_Design_1_00025
+	bounds: 871, 31, 39, 46
+	offsets: 7, 11, 57, 72
+ring_design/bonus 2_Design_1_00026
+	bounds: 457, 876, 37, 45
+	offsets: 9, 13, 57, 72
+ring_design/bonus 2_Design_1_00027
+	bounds: 549, 2, 36, 44
+	offsets: 10, 14, 57, 72
+	rotate: 90
+ring_design/bonus 2_Design_1_00028
+	bounds: 677, 2, 31, 38
+	offsets: 13, 17, 57, 72
+sca_bg
+	bounds: 2, 660, 173, 177
+	offsets: 1, 1, 175, 179
+sca_diamond
+	bounds: 719, 21, 52, 43
+	offsets: 0, 0, 52, 44
+sca_frame
+	bounds: 2, 839, 192, 191
+	offsets: 1, 1, 194, 193
+sca_ring
+	bounds: 196, 874, 149, 156
+	offsets: 0, 0, 209, 169

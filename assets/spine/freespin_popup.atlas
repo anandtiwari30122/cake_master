@@ -1,0 +1,24 @@
+freespin_popup.png
+	size: 1494, 1078
+	filter: Linear, Linear
+BG
+	bounds: 2, 96, 1181, 980
+	offsets: 1, 1, 1183, 982
+Swipe
+	bounds: 1185, 220, 161, 289
+Text1
+	bounds: 1185, 511, 565, 307
+	offsets: 1, 1, 567, 309
+	rotate: 90
+Text2
+	bounds: 1348, 51, 458, 21
+	offsets: 1, 1, 460, 23
+	rotate: 90
+blinky
+	bounds: 1185, 97, 119, 121
+	offsets: 0, 2, 119, 124
+congratulations
+	bounds: 2, 2, 1126, 92
+	offsets: 1, 1, 1128, 94
+placeholder
+	bounds: 1130, 44, 50, 50

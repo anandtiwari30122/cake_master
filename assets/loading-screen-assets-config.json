@@ -1,0 +1,22 @@
+{
+  "layouts": [
+    {
+      "name": "loading-screen",
+      "url": "./layouts/loading-screen.json"
+    }
+  ],
+  "textures": [
+    {
+      "name": "loading-screen",
+      "url": "./images/loading-screen-0.json"
+    }
+  ],
+  "spine": [
+    {
+      "name": "loader",
+      "url": "./spine/loader"
+    }
+  ],
+  "sounds": [],
+  "fonts": []
+}

@@ -1,0 +1,87 @@
+low_payout_2.png
+	size: 1878, 428
+	filter: Linear, Linear
+Glow_lp2/Glow_lp2_00
+	bounds: 509, 283, 134, 143
+Glow_lp2/Glow_lp2_01
+	bounds: 645, 283, 134, 143
+Glow_lp2/Glow_lp2_02
+	bounds: 781, 283, 134, 143
+Glow_lp2/Glow_lp2_03
+	bounds: 917, 283, 134, 143
+Glow_lp2/Glow_lp2_04
+	bounds: 1053, 283, 134, 143
+Glow_lp2/Glow_lp2_05
+	bounds: 1189, 283, 134, 143
+Glow_lp2/Glow_lp2_06
+	bounds: 1325, 283, 134, 143
+Glow_lp2/Glow_lp2_07
+	bounds: 1461, 283, 134, 143
+Glow_lp2/Glow_lp2_08
+	bounds: 1597, 283, 134, 143
+Glow_lp2/Glow_lp2_09
+	bounds: 1733, 283, 134, 143
+Glow_lp2/Glow_lp2_10
+	bounds: 382, 118, 134, 143
+Glow_lp2/Glow_lp2_11
+	bounds: 518, 138, 134, 143
+Glow_lp2/Glow_lp2_12
+	bounds: 654, 138, 134, 143
+Glow_lp2/Glow_lp2_13
+	bounds: 790, 138, 134, 143
+Glow_lp2/Glow_lp2_14
+	bounds: 926, 138, 134, 143
+Glow_lp2/Glow_lp2_15
+	bounds: 1062, 138, 134, 143
+Glow_lp2/Glow_lp2_16
+	bounds: 1198, 138, 134, 143
+Glow_lp2/Glow_lp2_17
+	bounds: 1334, 138, 134, 143
+Glow_lp2/Glow_lp2_18
+	bounds: 1470, 138, 134, 143
+Glow_lp2/Glow_lp2_19
+	bounds: 1606, 138, 134, 143
+Glow_lp2/Glow_lp2_20
+	bounds: 1742, 138, 134, 143
+Glow_lp2/Glow_lp2_21
+	bounds: 518, 2, 134, 143
+	rotate: 90
+Glow_lp2/Glow_lp2_22
+	bounds: 663, 2, 134, 143
+	rotate: 90
+Glow_lp2/Glow_lp2_23
+	bounds: 808, 2, 134, 143
+	rotate: 90
+Glow_lp2/Glow_lp2_24
+	bounds: 953, 2, 134, 143
+	rotate: 90
+Glow_lp2/Glow_lp2_25
+	bounds: 1098, 2, 134, 143
+	rotate: 90
+Glow_lp2/Glow_lp2_26
+	bounds: 1243, 2, 134, 143
+	rotate: 90
+Glow_lp2/Glow_lp2_27
+	bounds: 1388, 2, 134, 143
+	rotate: 90
+Glow_lp2/Glow_lp2_28
+	bounds: 1533, 2, 134, 143
+	rotate: 90
+Glow_lp2/Glow_lp2_29
+	bounds: 1678, 2, 134, 143
+	rotate: 90
+lp_2_bg
+	bounds: 196, 247, 184, 179
+	offsets: 1, 1, 186, 181
+lp_2_d_bg
+	bounds: 196, 66, 184, 179
+	offsets: 1, 1, 186, 181
+lp_2_d_frame
+	bounds: 2, 234, 192, 192
+	offsets: 1, 1, 194, 194
+lp_2_frame
+	bounds: 2, 40, 192, 192
+	offsets: 1, 1, 194, 194
+lp_2_stone
+	bounds: 382, 263, 125, 163
+	offsets: 8, 0, 148, 174

@@ -1,0 +1,82 @@
+low_payout_1.png
+	size: 1746, 437
+	filter: Linear, Linear
+Glow_lp1/Glow_lp1_00
+	bounds: 374, 292, 134, 143
+Glow_lp1/Glow_lp1_01
+	bounds: 377, 147, 134, 143
+Glow_lp1/Glow_lp1_02
+	bounds: 510, 292, 134, 143
+Glow_lp1/Glow_lp1_03
+	bounds: 377, 2, 134, 143
+Glow_lp1/Glow_lp1_04
+	bounds: 513, 147, 134, 143
+Glow_lp1/Glow_lp1_05
+	bounds: 646, 292, 134, 143
+Glow_lp1/Glow_lp1_06
+	bounds: 513, 2, 134, 143
+Glow_lp1/Glow_lp1_07
+	bounds: 649, 147, 134, 143
+Glow_lp1/Glow_lp1_08
+	bounds: 782, 292, 134, 143
+Glow_lp1/Glow_lp1_09
+	bounds: 649, 2, 134, 143
+Glow_lp1/Glow_lp1_10
+	bounds: 785, 147, 134, 143
+Glow_lp1/Glow_lp1_11
+	bounds: 918, 292, 134, 143
+Glow_lp1/Glow_lp1_12
+	bounds: 785, 2, 134, 143
+Glow_lp1/Glow_lp1_13
+	bounds: 921, 147, 134, 143
+Glow_lp1/Glow_lp1_14
+	bounds: 1054, 292, 134, 143
+Glow_lp1/Glow_lp1_15
+	bounds: 921, 2, 134, 143
+Glow_lp1/Glow_lp1_16
+	bounds: 1057, 147, 134, 143
+Glow_lp1/Glow_lp1_17
+	bounds: 1190, 292, 134, 143
+Glow_lp1/Glow_lp1_18
+	bounds: 1057, 2, 134, 143
+Glow_lp1/Glow_lp1_19
+	bounds: 1193, 147, 134, 143
+Glow_lp1/Glow_lp1_20
+	bounds: 1326, 292, 134, 143
+Glow_lp1/Glow_lp1_21
+	bounds: 1193, 2, 134, 143
+Glow_lp1/Glow_lp1_22
+	bounds: 1329, 147, 134, 143
+Glow_lp1/Glow_lp1_23
+	bounds: 1462, 292, 134, 143
+Glow_lp1/Glow_lp1_24
+	bounds: 1329, 2, 134, 143
+Glow_lp1/Glow_lp1_25
+	bounds: 1465, 147, 134, 143
+Glow_lp1/Glow_lp1_26
+	bounds: 1598, 292, 134, 143
+Glow_lp1/Glow_lp1_27
+	bounds: 1465, 2, 134, 143
+Glow_lp1/Glow_lp1_28
+	bounds: 1601, 156, 134, 143
+	rotate: 90
+Glow_lp1/Glow_lp1_29
+	bounds: 1601, 11, 134, 143
+lp_1 d_bg
+	bounds: 196, 61, 184, 179
+	offsets: 1, 1, 186, 181
+	rotate: 90
+lp_1_bg
+	bounds: 196, 61, 184, 179
+	offsets: 1, 1, 186, 181
+	rotate: 90
+lp_1 d_frame
+	bounds: 2, 243, 192, 192
+	offsets: 1, 1, 194, 194
+lp_1_coin
+	bounds: 196, 247, 188, 176
+	offsets: 4, 5, 200, 181
+	rotate: 90
+lp_1_frame
+	bounds: 2, 49, 192, 192
+	offsets: 1, 1, 194, 194
